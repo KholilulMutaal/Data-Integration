@@ -1,0 +1,136 @@
+School,SATPartRate,10GMCASEng,10GMCASMth,S/TRatio,S/CounselRatio
+Abington,0.78,242,242,11,188
+Acton-Boxborough Regional,0.91,253,256,17,213
+Algonquin Regional,0.95,248,249,11,211
+Amesbury,0.75,242,241,16,265
+Andover,0.94,245,248,14,232
+Arlington,0.91,246,245,12,267
+Ashland,0.87,248,248,9,196
+Attleboro,0.72,236,235,13,194
+Avon,0.66,238,233,13,235
+Bedford,0.85,251,250,11,168
+Belmont,1,253,252,16,196
+Beverly,0.74,240,240,12,184
+Billerica Memorial,0.85,240,239,15,290
+BMC Durfee(Fall River),0.46,229,227,15,219
+Braintree,0.82,250,247,12,225
+Bridgewater-Raynham Regional,0.78,241,244,15,307
+Brockton,0.61,236,230,15,179
+Bromfield (Harvard),0.99,254,254,12,183
+Brookline,0.93,246,246,9,186
+Burlington,0.89,245,244,12,149
+Burncoat Senior (Worcester),0.55,230,227,13,227
+Cambridge Rindge and Latin,0.77,233,233,11,150
+Canton,0.83,244,245,12,183
+Carver,0.78,242,238,14,196
+Chelmsford,0.9,244,245,14,280
+Chelsea,0.49,226,227,12,158
+Cohasset Junior-Senoir,0.96,251,251,10,171
+Concard-Carlisle,1,252,253,12,151
+Danvers,0.76,246,245,13,261
+Dedham,0.82,242,240,12,321
+Doherty Memorial (Worcester),0.75,233,233,15,265
+Dover-Sherborn Regional,1,257,253,12,152
+Dracut Senoir,0.84,241,239,13,249
+Duxbury,0.94,251,249,12,223
+East Bridgewater,0.76,244,240,13,225
+Everett,0.55,238,232,14,265
+Foxborough,0.82,245,244,13,200
+Framingham,0.83,243,242,13,235
+Franklin,0.88,247,245,12,284
+Georgetown,1,241,244,11,228
+Gloucester,0.55,237,233,13,337
+Hamilton-Wenham Regional,0.93,250,249,12,182
+Hanover,0.81,248,244,13,239
+Haverhill,0.73,236,235,16,236
+Hingham,0.92,251,248,14,216
+Holbrook Junior-Senior,0.71,237,233,13,287
+Holliston,0.95,244,246,13,273
+Hopkinton,0.89,250,249,13,207
+Hudson,0.69,242,239,15,187
+Hull,0.72,235,229,11,227
+Ipswich,0.76,243,243,14,253
+King Philip Regional,0.92,245,245,14,256
+Lawrence,0.6,223,221,13,153
+Lexington,0.98,253,252,14,151
+Lincoln-Sudbury Regional,0.96,252,253,11,155
+Littleton,0.78,248,244,13,262
+Lowell,0.57,233,231,17,302
+Lynn Classical,0.57,233,231,17,289
+Lynn English,0.45,232,230,15,255
+Lynnfield,0.93,249,245,12,170
+Malden,0.64,235,234,12,301
+Manchester Essex Regional,0.86,256,248,11,163
+Mansfield,0.83,245,242,14,179
+Marblehead,0.94,251,247,12,258
+Marlborough,0.83,241,241,12,230
+Marshfield,0.82,242,238,13,208
+Masconomet Regional,0.94,253,250,13,272
+Maynard,0.8,242,241,15,228
+Medfield Senior,0.97,252,249,13,222
+Medford,0.7,236,232,14,184
+Medway,0.94,247,243,15,317
+Melrose,0.85,247,242,12,192
+Methuen,0.67,236,234,15,178
+Middleborough,0.69,239,233,14,308
+Milford,0.77,241,240,15,260
+Millis,0.89,245,240,14,281
+Milton,0.93,244,238,16,209
+"Nashoba (Bolton, Lancaster, Stow)",0.8,250,250,13,127
+Natick,0.85,246,244,13,214
+Needham,1,252,252,14,202
+New Bedford,0.65,231,230,15,254
+Newburyport,0.81,249,250,13,167
+Newton North,0.87,252,252,10,143
+Newton South,0.92,251,254,10,148
+North (Worcester),0.47,230,227,15,268
+North Andover,0.86,248,245,14,174
+North Attleborough,0.85,240,238,15,224
+North Quincy,0.75,243,241,19,277
+North Reading,0.79,246,247,12,275
+Norton,0.78,244,239,13,203
+Norwell,0.91,248,248,15,185
+Norwood,0.85,248,244,13,189
+Oliver Ames (Easton),0.78,249,245,13,369
+Peabody Veterans Memorial,0.69,237,237,14,253
+Pentucket Regional Senior,0.82,250,247,11,152
+Plymouth North,0.77,244,239,13,204
+Plymouth South,0.84,243,241,9,146
+Quincy,0.62,234,235,10,113
+Randolph,0.96,238,237,13,208
+Reading Memorial,0.9,246,247,14,287
+Revere,0.81,233,232,12,342
+Rockland Senior,0.65,238,237,18,247
+Rockport,0.84,238,236,9,266
+Salem,0.6,231,230,10,165
+Saugus,0.85,237,239,14,315
+Scituate,0.91,245,245,15,195
+Sharon,0.96,251,252,11,258
+Shrewsbury Senoir,0.85,251,249,15,348
+Silver Lake Regional,0.79,243,239,12,196
+Somerville,0.53,233,233,10,220
+South High Community (Worcester),0.52,228,227,13,256
+Stoneham,0.86,250,245,13,253
+Stoughton,0.8,243,241,12,184
+Swampscott,0.88,250,249,15,389
+Taunton,0.61,234,233,19,168
+Tewksbury Memorial,0.94,240,243,13,222
+"Triton (Newbury, Rowley, Salisbury)",0.55,243,242,15,286
+Wakefield Memorial,0.79,246,240,14,246
+Walpole,0.94,245,243,16,225
+Waltham Senior,0.68,237,237,12,214
+Wareham Senior,0.75,244,237,15,184
+Watertown,0.77,240,240,16,197
+Wayland,0.95,259,257,14,134
+Wellesley Senior,0.95,255,254,12,184
+West Bridgewater Junior-Senior,0.82,239,241,11,216
+Westborough,0.9,251,253,11,274
+Westford Academy,0.95,248,251,13,234
+Weston,1,254,253,10,183
+Westwood,0.97,253,249,12,162
+Weymouth,0.76,238,237,13,233
+Whitman Hanson Regional,0.75,241,239,14,225
+Wilmington,0.81,242,240,12,267
+Winchester,0.95,252,251,12,227
+Winthrop Senior,0.92,241,235,11,262
+Woburn,0.78,244,242,14,213
